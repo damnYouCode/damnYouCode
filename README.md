@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @damnYouCode
 - 👀 I’m interested in learning git, SQL, and Python
-- 🌱 I’m currently learning SQL, Python and git,
+- 🌱 I’m currently learning SQL, Python and git
 - 💞️ I’m looking to collaborate on ... on my new branch.
 - 📫 How to reach me ...
 
